@@ -1,15 +1,3 @@
-# umi project
-
-## Getting Started
-
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+# sonw-mall
+基于umi+dva+ts+antd-mobile
+开发的一个仿手淘移动端页面
