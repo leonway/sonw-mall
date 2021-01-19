@@ -71,6 +71,7 @@ export default class Search extends Component<{}, ListState> {
         <div className={s.searchBox}>
           <SeachInput queryList={this.queryList} />
         </div>
+        厉害了
         <div className={s.listBox}>
           <List
             data={data}
